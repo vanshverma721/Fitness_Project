@@ -22,6 +22,9 @@ const Exercises = ({ exercises, setExercises, bodyPart }) => {
           <h1 key={index}>{exercise.name}</h1>
         ))}
       </Stack>
+      <Typography>
+        Hello
+      </Typography>
     </Box >
   )
 }
