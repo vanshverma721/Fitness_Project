@@ -23,7 +23,7 @@ const Exercises = ({ exercises, setExercises, bodyPart }) => {
         ))}
       </Stack>
       <Typography>
-        Hello
+        Hello My Name is Vansh Verma
       </Typography>
     </Box >
   )
